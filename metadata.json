@@ -1,0 +1,7 @@
+{
+  "name": "سوريا بدقيقة",
+  "description": "A comprehensive directory and marketplace for businesses and consumers, supporting local services, delivery, and real-time business management.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
